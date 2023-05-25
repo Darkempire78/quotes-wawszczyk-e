@@ -10,5 +10,5 @@ A python program that generates programming quotes and jokes.
 
 ## Fork urls
 - `contributor-1`: [quotes-wawszczyk-e](https://github.com/Darkempire78/quotes-wawszczyk-e)
-- `contributor-2`: [quotes-gascon-e](https://github.com/damdamdehoooooo/quotes-gascon-e)
+- `contributor-2`: [quotes-gascon-e](https://github.com/damdamdehooooooo/quotes-gascon-e)
 - `contributor-3`: [quotes-seixas-e](https://github.com/joedalton78/quotes-seixas-e)
